@@ -25,7 +25,7 @@ Building on top of the groundwork laid out by Solidly, our team has addressed th
 Velocimeter is a project built based on the orignal designs of [Andre Cronje's Solidly](https://andrecronje.medium.com/ve-3-3-44466eaa088b) which was later revised and made wildly successful by [Velodrome Finance](https://app.velodrome.finance/). 
 
 ## WTF is a velocimeter?
-[Velocimetry](https://en.wikipedia.org/wiki/Velocimetry) is the measurement of the velocity of fluids. A velocimeter is a tool that is use to measure the velocity and lenghts of movements. We felt this name accurately described what is happening in an AMM with token; "Liquidity" is added, moved around, and "flows" in and out of it.
+[Velocimetry](https://en.wikipedia.org/wiki/Velocimetry) is the measurement of the velocity of fluids. A velocimeter is a tool that is used to measure the velocity and lenghts of movements. We felt this name accurately described what is happening in an AMM with tokens; "Liquidity" is added, moved around, and "flows" in and out of it.
 
 
 
