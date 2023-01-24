@@ -1,4 +1,4 @@
-export default {
+const themeConfig = {
   projectLink: 'https://github.com/Velocimeter-finance/',
   docsRepositoryBase: 'https://github.com/Velocimeter-finance/docs/blob/master',
   // titleSuffix: 'Velocimeter',
@@ -70,3 +70,5 @@ export default {
     </>
   )
 }
+
+export default themeConfig
