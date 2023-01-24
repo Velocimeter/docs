@@ -4,8 +4,8 @@ import Bleed from 'nextra-theme-docs/bleed'
 
 <Bleed>
 <div align="center">
-  ![Velocimeter Launch](/dome5.jpg)
-  </div>
+  <img src="/dome5.jpg" alt="Velocimeter Launch" width="100%" />
+</div>
 </Bleed>
 
 &nbsp;

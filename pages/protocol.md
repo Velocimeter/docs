@@ -1,4 +1,5 @@
 import Bleed from 'nextra-theme-docs/bleed'
+import Callout from 'nextra-theme-docs/callout'
 
 # Protocol Overview
 
