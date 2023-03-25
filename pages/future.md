@@ -25,7 +25,7 @@ To help our users understand our vision we have created this document. So let's 
 ## 1:1 Airdrops
 
 As the Velocimeter team continues to grow it's offerings we will be slowly launching our products into different ecosystems. 
-As each new ecosystem comes online we will need veFLOW voters to help determine APY and emissions for the new pools. 
+As each new ecosystem comes online we will need veFLOW voters to help determine APR and emissions for the new pools. 
 To achieve this goal we intened to reward early veFLOW lockers with 1:1 veFLOW airdrops on newly launched chains. 
 This will ensure that as we launch new chains our existing lockers will gain valuable governance roles in the new chains we launch. This is very important for the long term growth of our protocol.
 
