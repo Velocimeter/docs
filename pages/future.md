@@ -44,7 +44,7 @@ As we meticulously roll out new partners over the next few quarters you will con
 
 ## Reducing pairs with addition of multihop
 
-Mulihop swapping is extremely important for a full dex ecosystem offering like we are building. The reason for that is without multihop swapping swaps are only possible between direct pool pairs. 
+Multihop swapping is extremely important for a full dex ecosystem offering like we are building. The reason for that is without multihop swapping swaps are only possible between direct pool pairs. 
 For example if you wanted to swap from FLOW to CINU you would require for example a FLOW/NOTE pool to sell your FLOW for NOTE and then a NOTE/CINU pool to sell your NOTE and buy CINU. 
 This would require multiple swaps for the user and many more Liquidity Pools spreading APR for each pool. With the addition of Mulihop any user of our dex will be able to swap directly between any two assets supported by Velocimeter.
 The new interface will allow this by automatically suggestion routes (while prioritizing the most efficient route). This allows us to concentrate the amount of LP pools and maximizing the rewards for those pools without it being determinental to our user experience.
