@@ -36,7 +36,7 @@ receive a `veFLOW` (also known as veNFT) in exchange. Additional tokens can be
 added to the `veFLOW` NFT at any time.
 
 The lock period (also known as vote-escrowed period, hence the _ve_ prefix) can be up
-to 4 years, following the linear relationship shown below:
+to 26 weeks, following the linear relationship shown below:
 
 - 100 `FLOW` locked for 26 weeks will become 100 `veFLOW`
 - 100 `FLOW` locked for 7 weeks will become 25 `veFLOW`
