@@ -8,23 +8,23 @@ import { Chart } from "react-google-charts";
   ![The FVM Token](/FVM.png)
 </div>
 
-## Tokenomics overview
+## Tokenomics Overview
 
 To get a full picture of initial system state and token disribution there are three categories which we will zero in on.
 
-1. Initial veFVM including voteable & non voteable (see mint tank for future partners & partner rebates details below). 
-2. Initial liquidity ~4% of total initial FVM is used provided by early partners & held in a 4/6 multisig as liquidity on day one. 
-2. Week one emissions 
+1. Initial veFVM including voteable & non voteable (see mint tank for future partners & partner rebate details below).
+2. Initial liquidity: ~4% of total initial FVM is used as liquidity, with wFTM provided by early partners & held in a 4/6 multisig as liquidity on day one.
+2. Week one emissions
 
-The sum of these 3 make up total supply at any given time. We have aimed to balance these three categories at launch based on our experience launching Canto & Pulsechain + our analyisis of other protocol launches and advice from our network.  
+The sum of these 3 make up total supply at any given time. We have aimed to balance these three categories at launch based on our experience launching on Canto & Pulsechain, our analyisis of other protocol launches, and advice from our network.  
 
 
 
-## veFVM Initial Distribution Chart & a distiction between voteable & non voteable initial veFVM
+## veFVM Initial Distribution Chart & distiction between voteable & non voteable initial veFVM
 
-45.5% of total initial veFVM is non voteable during epoch one and it is expected to be release at an average rate of ~1% per epoch.
+45.5% of total initial veFVM is non voteable during epoch one and it is expected to be released at an average rate of ~1% per epoch.
 
-Categories are marked as non votable if they are in the mint tank due to the fact that voting with these during initial period is impossible. They are released over time via business development & governance processes at an expected average rate of ~1% per epoch.
+Categories are marked as non votable if they are in the mint tank due to the fact that voting with these during the initial period is impossible. They are released over time via business development & governance processes at an expected average rate of ~1% per epoch.
 
 
   <Chart
@@ -58,7 +58,7 @@ Categories are marked as non votable if they are in the mint tank due to the fac
 Share of Initial Supply:
 30% Future protocols / Advisors / Contributors / Growth
 18% Treasury / POL voting on FVM + core pools
-21.5% Mint Tank for whitelisted protocols (Bribe rebates)
+21.5% Mint tank for whitelisted protocols (bribe rebates)
 
 ## Table
 
@@ -69,8 +69,8 @@ Share of Initial Supply:
 |        |18          |                                                     |                     |      |POL Voting on FVM + core pools                     |18     |1080000    |
 |        |21.5        |                                                     |                     |      |Mint tank whitelisted protocol  bribe rebates      |21.5   |1290000    |
 |        |4           |                                                     |4                    |240000|Velocimeter                                        |8      |480000     |
-|        |1.5         |1                                                    |1                    |60000 |Tarrot                                             |3.5    |210000     |
-|        |1.5         |1                                                    |1                    |60000 |Morpheus                                           |3.5    |210000     |
+|        |1.5         |1                                                    |1                    |60000 |Tarot                                             |3.5    |210000     |
+|        |1.5         |1                                                    |1                    |60000 |Morphex                                           |3.5    |210000     |
 |        |1.5         |1                                                    |1                    |60000 |Deus                                               |3.5    |210000     |
 |        |1.5         |1                                                    |1                    |60000 |Scream                                             |3.5    |210000     |
 |        |1.5         |1                                                    |1                    |60000 |Liquid Driver                                      |3.5    |210000     |
@@ -78,52 +78,48 @@ Share of Initial Supply:
 
 
 
-## Epoch One Emissions & General Emmissions details.
+## Epoch One Emissions & General Emmissions Details
 
 300,000 FVM will be distributed to gauges in epoch one. Emmissions in v3 may be increases/reduced by a maximum of 50% on a per epoch basis via governance.
 
-## Initial FLOW liquidity 
+## Initial FVM Liquidity 
 
 | Protocol      | USD amount | FVM amount |
 | ------------- | ---------- | ---------- |
-| Tarrot        | $5,000     | 69,643     |
-| Morpheus      | $5,000     | 69,643     |
+| Tarot        | $5,000     | 69,643     |
+| Morphex      | $5,000     | 69,643     |
 | Deus          | $5,000     | 69,643     |
 | Scream        | $5,000     | 69,643     |
 | Velocimeter   | $10,000    | 139,286    |
 | Liquid Driver | $5,000     | 69,643     |
 
-## The mint tank
+## The Mint Tank
 
-This contract holds FVM which may only be used for minting veFVM. Liquid FLOW may never leave the contract as an assurance to liquidity providers and third party partners such as Beefy Finance who requires a limit on liquid tokens controlled by teams.
+This contract holds FVM which may only be used for minting veFVM. Liquid FVM may never leave the contract as an assurance to liquidity providers and third party partners such as Beefy Finance who requires a limit on liquid tokens controlled by teams.
 
 ## Initial Partner veFVM
 
-30% veFVM is in the mint tank contract and can only be used for minting future partner veFVM
+30% veFVM is in the mint tank contract and can only be used for minting future partner veFVM.
 
-## Partner Bribe rebates
+## Partner Bribe Rebates
 
-21.5% veFVM is in the mint tank contract and can only be used for minting partner bribe rebates
+21.5% veFVM is in the mint tank contract and can only be used for minting partner bribe rebates.
 
-## Note on bribe rebates
-
-Whitelisted protocols get 15% rebate in veFVM each epoch based on total $ bribe amount (price of FVM at epoch flip is relevant). Top 4 bribers get additional 5% rebate of $ bribe amount in veFVM towards their native pool bribes the following epoch
+Whitelisted protocols get a 15% rebate in veFVM each epoch based on total $ bribe amount (price of FVM at epoch flip is relevant). Top 4 bribers also receive an additional 5% rebate of $ bribe amount in veFVM towards their native pool bribes the following epoch.
 
 ## Protocol Regulation
 
-Velocimeter v3 has three tokens available to regulate the system. At launch FVM & veFVM will be in use. While oFVM may be turned on via governance to further regulate the system.
+FVM by Velocimeter has three tokens available to regulate the system. At launch FVM & veFVM will be in use, ~~while oFVM may be turned on via governance to further regulate the system.~~ oFVM emissions have been enabled and FVM is no longer being emitted.
 
 
+- `oFVM` &mdash; Reward token for LPs. Can be redeemed any time @ a 25% discount on market price of FVM via redemption.
+- `FVM` &mdash; ERC-20 liquid token.
+- `veFVM` &mdash; ERC-721 governance token in the form of an NFT (non-fungible token). Votes to direct emissions, earns fees, bribes & oFVM redemption funds + Velocimeter Pro redemption fees.
 
-- `oFVM` &mdash; Reward token for LPs. Can be redeemed at any time @ 50% discount on market price of FVM
-- `FVM` &mdash; ERC-20 liquid token (serves as reward token while oFVM lays dormant in the system during launch.)
-- `veFVM` &mdash; ERC-721 governance token in the form of an NFT. Votes to direct emissions, earns fees, bribes & oFVM redemption funds + Velocimeter Pro redemption fees.
-  (non-fungible token)
-
-`oFVM` is used for rewarding liquidity providers through emissions it's option mechanism provides sustainble funding for the protocol and support for the FVM market.
+`oFVM` is used for rewarding liquidity providers through emissions. Its option mechanism provides sustainable funding for the protocol and support for the FVM market. An in-depth explanation of all redemption options is available [here](/oFVMmech)
 
 `veFVM` is used for governance. Any `FVM` holder can vote-escrow their tokens and
-receive a `veFVM` (also known as veNFT) in exchange. Additional tokens can be
+receive `veFVM` (also known as a veNFT) in exchange. Additional tokens can be
 added to the `veFVM` NFT at any time.
 
 The lock period (also known as vote-escrowed period, hence the _ve_ prefix) can be up
@@ -172,7 +168,7 @@ More information on voting can be found the [Voting Section](/voting) section of
       ["200", 2, 0.5, 1350]
     ]}
     options={{
-      title: "FVM Emissions (M)",
+      title: "FVM Emissions (K)",
       curveType: 'function',
       aggregationTarget: 'series',
       selectionMode: 'multiple',
@@ -201,11 +197,11 @@ More information on voting can be found the [Voting Section](/voting) section of
 
 ## Whitelisting
 
-While Velocimeter supports permissionless liquidity pool. Gauge creation can
+While Velocimeter supports permissionless liquidity pools, gauge creation can
 only include _whitelisted_ tokens. Part of the partner onboarding program will include whitelisting of their tokens where needed.
 
 Partners can request additional tokens to be _whitelisted_.
-There is a complete list of all the whitelisted tokens in the [Gauges Section](/gauges)
+More information on whitelisting and gauges can be found in the [Gauges Section](/gauges).
 
 ## Council of Velocimetry
 
