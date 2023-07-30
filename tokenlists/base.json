@@ -11,7 +11,7 @@
       "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://www.base.velocimeter.xyz/tokens/bvm.png",
+      "logoURI": "https://base.velocimeter.xyz/tokens/bvm.png",
       "name": "Velocimeter",
       "symbol": "BVM"
     },
@@ -19,7 +19,7 @@
       "address": "0x762eb51D2e779EeEc9B239FFB0B2eC8262848f3E",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://www.base.velocimeter.xyz/tokens/oBvm.png",
+      "logoURI": "https://base.velocimeter.xyz/tokens/oBvm.png",
       "name": "Option BVM",
       "symbol": "oBVM"
     }
