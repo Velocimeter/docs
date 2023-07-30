@@ -3,7 +3,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png",
       "name": "Wrapped ETH",
       "symbol": "WETH"
     },
