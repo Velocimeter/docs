@@ -22,6 +22,14 @@
       "logoURI": "https://base.velocimeter.xyz/tokens/oBvm.png",
       "name": "Option BVM",
       "symbol": "oBVM"
+    },
+    {
+      "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg",
+      "name": "Bald",
+      "symbol": "BALD"
     }
   ]
   
