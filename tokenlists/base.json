@@ -30,6 +30,14 @@
       "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg",
       "name": "Bald",
       "symbol": "BALD"
+    },
+    {
+      "address": "0x356bdb09c6d095464a3b009c64920a8bda629060",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://base.velocimeter.xyz/images/partners/smooth.png",
+      "name": "Smooth",
+      "symbol": "SMOOTH"
     }
   ]
   
