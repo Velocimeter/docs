@@ -62,6 +62,14 @@
     "logoURI": "https://www.basethereum.finance/static/media/mush.ba67229d.png",
     "name": "Seigniorage Shares",
     "symbol": "SHARE"
+    },
+    {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 8453,
+    "decimals": 6,
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
     }
   ]
   
