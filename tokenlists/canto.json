@@ -48,6 +48,22 @@
       "symbol": "FLOW"
     },
     {
+      "address": "0xbAD86785eB08fe9d0948B7D9d24523000A177cD0",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
+      "name": "Velocimeter",
+      "symbol": "CVM"
+    },
+    {
+      "address": "0x5C2a258A169Fd683e784686E606E33f6D8c31b9a",
+      "chainId": 7700,
+      "decimals": 18,
+      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
+      "name": "Velocimeter",
+      "symbol": "oCVM"
+    },
+    {
       "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
       "chainId": 7700,
       "decimals": 6,
