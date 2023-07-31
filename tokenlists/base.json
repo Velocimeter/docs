@@ -38,6 +38,14 @@
       "logoURI": "https://base.velocimeter.xyz/images/partners/smooth.png",
       "name": "Smooth",
       "symbol": "SMOOTH"
+    },
+    {
+      "address": "0x6c743ee9ef26b445d80f19cc783e89b43dcffa07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://base.velocimeter.xyz/images/partners/smooth.png",
+      "name": "Option to Buy Smooth",
+      "symbol": "oSMOOTH"
     }
   ]
   
