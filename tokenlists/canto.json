@@ -208,6 +208,14 @@
       "symbol": "TAROT"
     },
     {
+    "address": "0xCAC45583c6990b6D0981F4707f00eB6a00214617",
+    "chainId": 7700,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
+    "name": "Tarot",
+    "symbol": "TAROT"
+    },
+    {
       "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
       "chainId": 7700,
       "decimals": 18,
