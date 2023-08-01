@@ -78,6 +78,14 @@
     "name": "Axelar Wrapped USDT",
     "symbol": "axlUSDT",
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+    },
+    {
+    "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN"
     }
   ]
   
