@@ -329,5 +329,13 @@
     "name": "Axelar Wrapped Lqdr",
     "symbol": "axlLQDR"
     },
+    {
+    "name": "Morphex Wrapped sMLPv2",
+    "symbol": "wMLPv2",
+    "address": "0xAE4846b148A65782865A4849E940575F77359b2B",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://www.fvm.exchange/images/partners/wmlp.png"
+    }
   ]
   
