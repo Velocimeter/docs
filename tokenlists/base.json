@@ -94,6 +94,14 @@
     "logoURI": "https://base.velocimeter.xyz/images/partners/ogre.png",
     "name": "SHREKT",
     "symbol": "OGRE"
+    },
+    {
+    "address": "0xF544251D25f3d243A36B07e7E7962a678f952691",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
+    "name": "Tarot",
+    "symbol": "TAROT"
     }
   ]
   
