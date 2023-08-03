@@ -102,6 +102,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
     "name": "Tarot",
     "symbol": "TAROT"
+    },
+    {
+    "address": "0xa5325a8ebbbdb12caf6b76218a7375a71f9f3b41",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28965/large/mpx_logo_256.png",
+    "name": "Morphex",
+    "symbol": "MPX"
     }
   ]
   
