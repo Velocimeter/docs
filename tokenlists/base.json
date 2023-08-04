@@ -110,6 +110,22 @@
     "logoURI": "https://assets.coingecko.com/coins/images/28965/large/mpx_logo_256.png",
     "name": "Morphex",
     "symbol": "MPX"
+    },
+    {
+    "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+"
+    },
+    {
+    "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29634/large/DAI_.png",
+    "name": "Overnight.fi DAI+",
+    "symbol": "DAI+"
     }
   ]
   
