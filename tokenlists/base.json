@@ -114,7 +114,7 @@
     {
     "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
     "chainId": 8453,
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png",
     "name": "Overnight.fi USD+",
     "symbol": "USD+"
@@ -126,6 +126,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/29634/large/DAI_.png",
     "name": "Overnight.fi DAI+",
     "symbol": "DAI+"
+    },
+    {
+    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USD Base Coin",
+    "symbol": "USDbC"
     }
   ]
   
