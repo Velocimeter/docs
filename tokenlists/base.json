@@ -134,6 +134,22 @@
     "chainId": 8453,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+    "name": "Base TiUSD",
+    "symbol": "bTiUSD",
+    "address": "0x82fdaf19c7560be8f29d4bb3a1f7e1620db27238",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30697/large/TIUDS.png"
+    },
+    {
+    "name": "Base TiTi",
+    "symbol": "bTiTi",
+    "address": "0x57bec9e5b5f2e3c4c925949f516527e8fbc83cf2",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30561/large/TiTi.png"
     }
   ]
   
