@@ -1,341 +1,370 @@
 [
-    {
-      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/16036/large/Fantom.png",
-      "name": "Wrapped FTM",
-      "symbol": "WFTM"
-    },
-        {
-      "address": "0xC7aE4aB742F6b0b203f6710C87677005Bc45ad01",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484",
-      "name": "Curve DAO",
-      "symbol": "CRV"
-    },
-    {
-      "address": "0xaa798BF5eC09B6E3bC059Ea4d36d4Ca53e063EF7",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png",
-      "name": "Curve USD",
-      "symbol": "crvUSD"
-    },
-  
-    {
-      "name": "F**K Multichain",
-      "symbol": "FMULTI",
-      "address": "0x6CEbb8cD66Fca7E6aca65841Ae3A04B7884F4de8",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/07/IMG_4671.jpg"
-    },
-    {
-      "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947",
-      "name": "FRAX Share",
-      "symbol": "FXS"
-    },
-  
-    {
-      "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13422/small/FRAX_icon.png?1679886922",
-      "name": "FRAX",
-      "symbol": "FRAX"
-    },
-    {
-      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
-      "name": "Multichain Maker DAO DAI",
-      "symbol": "anyDAI"
-    },
-    {
-      "address": "0xdf5C2c48cf3E50417b31Da8aa7B6Afd0Ce30af8A",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
-      "name": "Wrapped ETH",
-      "symbol": "oldWETH.lz"
-    },
-    {
-      "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
-      "name": "Wrapped ETH",
-      "symbol": "lzWETH"
-    },
-    {
-      "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
-      "chainId": 250,
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
-      "name": "Wrapped BTC",
-      "symbol": "lzWBTC"
-    },
-    {
-      "address": "0x07BB65fAaC502d4996532F834A1B7ba5dC32Ff96",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://www.fvm.exchange/tokens/fvm.png",
-      "name": "Velocimeter",
-      "symbol": "FVM"
-    },
-    {
-      "address": "0xF9EDdca6B1e548B0EC8cDDEc131464F462b8310D",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://www.fvm.exchange/tokens/oFvm.png",
-      "name": "Option FVM",
-      "symbol": "oFVM"
-    },
-    {
-      "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
-      "name": "Tarot",
-      "symbol": "TAROT"
-    },
-    {
-      "address": "0xb7C2ddB1EBAc1056231ef22c1b0A13988537a274",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
-      "name": "Tarot",
-      "symbol": "TAROT"
-    },
-    {
-      "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15782/large/LQDR_Glowing_Icon.png",
-      "name": "Liquid Driver",
-      "symbol": "LQDR"
-    },
-    {
-      "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18778/large/Black_Background_200x200.png",
-      "name": "DEUS Finance",
-      "symbol": "DEUS"
-    },
-    {
-      "address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17509/large/output-onlinepngtools_%286%29.png",
-      "name": "Scream",
-      "symbol": "SCREAM"
-    },
-    {
-      "address": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28965/large/mpx_logo_256.png",
-      "name": "Morphex",
-      "symbol": "MPX"
-    },
-    {
-      "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-      "name": "USDC Coin",
-      "symbol": "lzUSDC"
-    },
-    {
-      "address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-      "name": "Tether USD",
-      "symbol": "lzUSDT"
-    },
-    {
-      "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png",
-      "name": "Fantom Bomb",
-      "symbol": "fBOMB"
-    },
-    {
-      "address": "0x21Ada0D2aC28C3A5Fa3cD2eE30882dA8812279B6",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1673751872950108160/W8-EMVVE_400x400.jpg",
-      "name": "OATH",
-      "symbol": "OATH"
-    },
-    {
-      "address": "0xE5a4c0af6F5f7Ab5d6C1D38254bCf4Cc26d688ed",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://moonmasters.mypinata.cloud/ipfs/QmWTSjcjffhJKas33GHMcLbmjSEKq3wVvKroCZAAmyxoVd",
-      "name": "Moon Bay",
-      "symbol": "BAY"
-    },
-    {
-      "address": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png",
-      "name": "Ethos Reserve Note",
-      "symbol": "ERN"
-    },
-    {
-      "address": "0x02838746d9E1413E07EE064fcBada57055417f21",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29740/large/Grain.png",
-      "name": "Granary",
-      "symbol": "GRAIN"
-    },
-    {
-      "address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png",
-      "name": "Multichain DOLA",
-      "symbol": "anyDOLA"
-    },
-    {
-      "address": "0x2A5E4c77F791c0174a717B644A53fc21A29790Cd",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/05/Sheet_WIP.png",
-      "name": "sCANTO BLOTR",
-      "symbol": "BLOTR"
-    },
-    {
-      "address": "0xC5d4E462b96cC73283EB452B15147c17Af413313",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/05/Sheet_WIP.png",
-      "name": "Option to buy BLOTR",
-      "symbol": "oBLOTR"
-    },
-    {
-      "address": "0x0AeEecbEedB4bC6288EBb9b412341428564709D4",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://docs.scanto.io/V1.png",
-      "name": "Liquid Staked Canto",
-      "symbol": "sCANTO"
-    },
-    {
-      "address": "0xfa5992a8a47af7029e04ec6a95203ad3f301460b",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29172/large/skull.png",
-      "name": "SkullSwap Exchange",
-      "symbol": "SKULL"
-    },
-    {
-      "address": "0xf7Cc345aA2ccda40403af0b57341AB7Fa74b7EEa",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/dai.svg",
-      "name": "Maker DAO DAI",
-      "symbol": "oldDAI.lz"
-    },
-    {
-      "address": "0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/dai.svg",
-      "name": "Maker DAO DAI",
-      "symbol": "DAI"
-    },
-    {
-      "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
-      "name": "Qi DAO miMATIC",
-      "symbol": "MAI"
-    },
-    {
-      "address": "0x9E73F99EE061C8807F69f9c6CCc44ea3d8c373ee",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981",
-      "name": "FRAX Staked ETH",
-      "symbol": "frxETH"
-    },
-    {
-      "address": "0xa41A879bcFdd75983a987FD6b68fae37777e8b28",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1600595248048181253/x6LgJqWO_400x400.jpg",
-      "name": "XEX Crypto",
-      "symbol": "XEX"
-    },
-    {
-      "address": "0x269557D887EaA9C1a756B2129740B3FC2821fD91",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://www.fvm.exchange/images/partners/obaylogo.png",
-      "name": "Option to buy BAY",
-      "symbol": "oBAY"
-    },
-    {
-      "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
-      "chainId": 250,
-      "decimals": 6,
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-    },
-    {
-      "name": "Axelar Wrapped ETH",
-      "symbol": "axlETH",
-      "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28171/large/axlweth.png"
-    },
-    {
-      "name": "Stader sFTMX",
-      "symbol": "sFTMX",
-      "address": "0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26586/large/Fantom_Light.png.png"
-    },
-    {
-      "name": "Stargate Finance",
-      "symbol": "STG",
-      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png"
-    },
-    {
+  {
+    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16036/large/Fantom.png",
+    "name": "Wrapped FTM",
+    "symbol": "WFTM"
+  },
+  {
+    "address": "0xC7aE4aB742F6b0b203f6710C87677005Bc45ad01",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484",
+    "name": "Curve DAO",
+    "symbol": "CRV"
+  },
+  {
+    "address": "0xaa798BF5eC09B6E3bC059Ea4d36d4Ca53e063EF7",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e.png",
+    "name": "Curve USD",
+    "symbol": "crvUSD"
+  },
+  {
+    "name": "F**K Multichain",
+    "symbol": "FMULTI",
+    "address": "0x6CEbb8cD66Fca7E6aca65841Ae3A04B7884F4de8",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://cre8r.vip/wp-content/uploads/2023/07/IMG_4671.jpg"
+  },
+  {
+    "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947",
+    "name": "FRAX Share",
+    "symbol": "FXS"
+  },
+  {
+    "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13422/small/FRAX_icon.png?1679886922",
+    "name": "FRAX",
+    "symbol": "FRAX"
+  },
+  {
+    "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+    "name": "Multichain Maker DAO DAI",
+    "symbol": "anyDAI"
+  },
+  {
+    "address": "0xdf5C2c48cf3E50417b31Da8aa7B6Afd0Ce30af8A",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
+    "name": "Wrapped ETH",
+    "symbol": "oldWETH.lz"
+  },
+  {
+    "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
+    "name": "Wrapped ETH",
+    "symbol": "lzWETH"
+  },
+  {
+    "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
+    "chainId": 250,
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
+    "name": "Wrapped BTC",
+    "symbol": "lzWBTC"
+  },
+  {
+    "address": "0x07BB65fAaC502d4996532F834A1B7ba5dC32Ff96",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://www.fvm.exchange/tokens/fvm.png",
+    "name": "Velocimeter",
+    "symbol": "FVM"
+  },
+  {
+    "address": "0xF9EDdca6B1e548B0EC8cDDEc131464F462b8310D",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://www.fvm.exchange/tokens/oFvm.png",
+    "name": "Option FVM",
+    "symbol": "oFVM"
+  },
+  {
+    "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
+    "name": "Tarot",
+    "symbol": "TAROT"
+  },
+  {
+    "address": "0xb7C2ddB1EBAc1056231ef22c1b0A13988537a274",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
+    "name": "Tarot",
+    "symbol": "TAROT"
+  },
+  {
+    "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15782/large/LQDR_Glowing_Icon.png",
+    "name": "Liquid Driver",
+    "symbol": "LQDR"
+  },
+  {
     "address": "0x4b6B3d425F82248996D77EcC3F3df1E500aaC1db",
     "chainId": 250,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15782/large/LQDR_Glowing_Icon.png",
     "name": "Axelar Wrapped Lqdr",
     "symbol": "axlLQDR"
-    },
-    {
+  },
+  {
+    "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18778/large/Black_Background_200x200.png",
+    "name": "DEUS Finance",
+    "symbol": "DEUS"
+  },
+  {
+    "address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17509/large/output-onlinepngtools_%286%29.png",
+    "name": "Scream",
+    "symbol": "SCREAM"
+  },
+  {
+    "address": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28965/large/mpx_logo_256.png",
+    "name": "Morphex",
+    "symbol": "MPX"
+  },
+  {
+    "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
+    "chainId": 250,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USDC Coin",
+    "symbol": "lzUSDC"
+  },
+  {
+    "address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
+    "chainId": 250,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "name": "Tether USD",
+    "symbol": "lzUSDT"
+  },
+  {
+    "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png",
+    "name": "Fantom Bomb",
+    "symbol": "fBOMB"
+  },
+  {
+    "address": "0xC9500D44e6dbCb7Cd61e698A047289f05fC28c78",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png",
+    "name": "Option to buy fBOMB",
+    "symbol": "ofBOMB"
+  },
+  {
+    "address": "0x5deb27e51dbeef691ba1175a2e563870499c2acb",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8052/large/milleniumclub-logo.png",
+    "name": "MillenniumClub Coin",
+    "symbol": "MCLB"
+  },
+  {
+    "address": "0x21Ada0D2aC28C3A5Fa3cD2eE30882dA8812279B6",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1673751872950108160/W8-EMVVE_400x400.jpg",
+    "name": "OATH",
+    "symbol": "OATH"
+  },
+  {
+    "address": "0xE5a4c0af6F5f7Ab5d6C1D38254bCf4Cc26d688ed",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://moonmasters.mypinata.cloud/ipfs/QmWTSjcjffhJKas33GHMcLbmjSEKq3wVvKroCZAAmyxoVd",
+    "name": "Moon Bay",
+    "symbol": "BAY"
+  },
+  {
+    "address": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN"
+  },
+  {
+    "address": "0x02838746d9E1413E07EE064fcBada57055417f21",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29740/large/Grain.png",
+    "name": "Granary",
+    "symbol": "GRAIN"
+  },
+  {
+    "address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14287/large/dola.png",
+    "name": "Multichain DOLA",
+    "symbol": "anyDOLA"
+  },
+  {
+    "address": "0x2A5E4c77F791c0174a717B644A53fc21A29790Cd",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://cre8r.vip/wp-content/uploads/2023/05/Sheet_WIP.png",
+    "name": "sCANTO BLOTR",
+    "symbol": "BLOTR"
+  },
+  {
+    "address": "0xC5d4E462b96cC73283EB452B15147c17Af413313",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://cre8r.vip/wp-content/uploads/2023/05/Sheet_WIP.png",
+    "name": "Option to buy BLOTR",
+    "symbol": "oBLOTR"
+  },
+  {
+    "address": "0x0AeEecbEedB4bC6288EBb9b412341428564709D4",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://docs.scanto.io/V1.png",
+    "name": "Liquid Staked Canto",
+    "symbol": "sCANTO"
+  },
+  {
+    "address": "0xfa5992a8a47af7029e04ec6a95203ad3f301460b",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29172/large/skull.png",
+    "name": "SkullSwap Exchange",
+    "symbol": "SKULL"
+  },
+  {
+    "address": "0xf7Cc345aA2ccda40403af0b57341AB7Fa74b7EEa",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/dai.svg",
+    "name": "Maker DAO DAI",
+    "symbol": "oldDAI.lz"
+  },
+  {
+    "address": "0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/dai.svg",
+    "name": "Maker DAO DAI",
+    "symbol": "lzDAI"
+  },
+  {
+    "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+    "name": "Qi DAO miMATIC",
+    "symbol": "MAI"
+  },
+  {
+    "address": "0x9E73F99EE061C8807F69f9c6CCc44ea3d8c373ee",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981",
+    "name": "FRAX Staked ETH",
+    "symbol": "frxETH"
+  },
+  {
+    "address": "0xa41A879bcFdd75983a987FD6b68fae37777e8b28",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1600595248048181253/x6LgJqWO_400x400.jpg",
+    "name": "XEX Crypto",
+    "symbol": "XEX"
+  },
+  {
+    "address": "0x269557D887EaA9C1a756B2129740B3FC2821fD91",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://www.fvm.exchange/images/partners/obaylogo.png",
+    "name": "Option to buy BAY",
+    "symbol": "oBAY"
+  },
+  {
+    "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+    "chainId": 250,
+    "decimals": 6,
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+  },
+  {
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH",
+    "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28171/large/axlweth.png"
+  },
+  {
+    "name": "Stader sFTMX",
+    "symbol": "sFTMX",
+    "address": "0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26586/large/Fantom_Light.png.png"
+  },
+  {
+    "name": "Stargate Finance",
+    "symbol": "STG",
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png"
+  },
+  {
     "name": "Morphex Wrapped sMLPv2",
     "symbol": "wMLPv2",
     "address": "0xAE4846b148A65782865A4849E940575F77359b2B",
     "chainId": 250,
     "decimals": 18,
     "logoURI": "https://www.fvm.exchange/images/partners/wmlp.png"
-    }
-  ]
-  
+  },
+  {
+    "name": "Comb Finance",
+    "symbol": "COMB",
+    "address": "0xae45a827625116d6c0c40b5d7359ecf68f8e9afd",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://www.fvm.exchange/images/partners/comb.png"
+  },
+  {
+    "address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://www.fvm.exchange/images/partners/stERN.png",
+    "name": "Staked ERN",
+    "symbol": "stERN"
+  }
+]
