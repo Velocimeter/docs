@@ -1,0 +1,218 @@
+import { Chart } from "react-google-charts";
+
+
+
+# Tokenomics
+
+<div align="center">
+  ![The FVM Token](/FVM.png)
+</div>
+
+## Tokenomics Overview
+
+To get a full picture of initial system state and token disribution there are three categories which we will zero in on.
+
+1. Initial veFVM including voteable & non voteable (see mint tank for future partners & partner rebate details below).
+2. Initial liquidity: ~4% of total initial FVM is used as liquidity, with wFTM provided by early partners & held in a 4/6 multisig as liquidity on day one.
+2. Week one emissions
+
+The sum of these 3 make up total supply at any given time. We have aimed to balance these three categories at launch based on our experience launching on Canto & Pulsechain, our analyisis of other protocol launches, and advice from our network.  
+
+
+
+## veFVM Initial Distribution Chart & distiction between voteable & non voteable initial veFVM
+
+45.5% of total initial veFVM is non voteable during epoch one and it is expected to be released at an average rate of ~1% per epoch.
+
+Categories are marked as non votable if they are in the mint tank due to the fact that voting with these during the initial period is impossible. They are released over time via business development & governance processes at an expected average rate of ~1% per epoch.
+
+
+  <Chart
+    chartType="PieChart"
+    data={[
+      [ "Receivers", "Amount" ],
+      
+     
+      
+      [ "Non Voteable Future protocols / Advisors / Contributers / Growth", 1800000],
+      [ "Non voteable Partner Protocol Rebate Reserve", 1290000],
+      [ "Protocol owned voting power", 1080000],
+      [ "Velocimeter Team", 240000],
+      [ "Initial liquidity", 240000],
+      [ "Airdrop", 600000]
+    ]}
+    options={{
+      title: "FVM Distribution (veFVM + Initial liquidity)",
+      backgroundColor: '#111111',
+      colors: ['#046971', '#10575D', '#1D565B', '#003C40', '#4EAC9D', '#3BBFAA', '#21CCB1' ],
+      legend: {textStyle: {color: 'white' }},
+      pieHole: 0.4,
+      titleTextStyle: { color: 'white' },
+    }}
+    width={"100%"}
+    height={"600px"}
+  />
+
+
+
+Share of Initial Supply:
+30% Future protocols / Advisors / Contributors / Growth
+18% Treasury / POL voting on FVM + core pools
+21.5% Mint tank for whitelisted protocols (bribe rebates)
+
+## Table
+
+|Totals  |Base % share|1% bonus for moving entire (or significant) liquidity|Airdrop for community|veFVM |Group                                              |Total %|Total veFVM|
+|--------|------------|-----------------------------------------------------|---------------------|------|---------------------------------------------------|-------|-----------|
+|        |4           |                                                     |                     |      |Initial Liquidity                                  |4      |240000     |
+|        |30          |                                                     |                     |      |Future protocols / Advisors / Contributers / Growth|30     |1800000    |
+|        |18          |                                                     |                     |      |POL Voting on FVM + core pools                     |18     |1080000    |
+|        |21.5        |                                                     |                     |      |Mint tank whitelisted protocol  bribe rebates      |21.5   |1290000    |
+|        |4           |                                                     |4                    |240000|Velocimeter                                        |8      |480000     |
+|        |1.5         |1                                                    |1                    |60000 |Tarot                                             |3.5    |210000     |
+|        |1.5         |1                                                    |1                    |60000 |Morphex                                           |3.5    |210000     |
+|        |1.5         |1                                                    |1                    |60000 |Deus                                               |3.5    |210000     |
+|        |1.5         |1                                                    |1                    |60000 |Scream                                             |3.5    |210000     |
+|        |1.5         |1                                                    |1                    |60000 |Liquid Driver                                      |3.5    |210000     |
+|Totals %|85          |5                                                    |10                   |600000|                                                   |100    |6000000    |
+
+
+
+## Epoch One Emissions & General Emmissions Details
+
+300,000 FVM will be distributed to gauges in epoch one. Emmissions in v3 may be increases/reduced by a maximum of 50% on a per epoch basis via governance.
+
+## Initial FVM Liquidity 
+
+| Protocol      | USD amount | FVM amount |
+| ------------- | ---------- | ---------- |
+| Tarot        | $5,000     | 69,643     |
+| Morphex      | $5,000     | 69,643     |
+| Deus          | $5,000     | 69,643     |
+| Scream        | $5,000     | 69,643     |
+| Velocimeter   | $10,000    | 139,286    |
+| Liquid Driver | $5,000     | 69,643     |
+
+## The Mint Tank
+
+This contract holds FVM which may only be used for minting veFVM. Liquid FVM may never leave the contract as an assurance to liquidity providers and third party partners such as Beefy Finance who requires a limit on liquid tokens controlled by teams.
+
+## Initial Partner veFVM
+
+30% veFVM is in the mint tank contract and can only be used for minting future partner veFVM.
+
+## Partner Bribe Rebates
+
+21.5% veFVM is in the mint tank contract and can only be used for minting partner bribe rebates.
+
+Whitelisted protocols get a 15% rebate in veFVM each epoch based on total $ bribe amount (price of FVM at epoch flip is relevant). Top 4 bribers also receive an additional 5% rebate of $ bribe amount in veFVM towards their native pool bribes the following epoch.
+
+## Protocol Regulation
+
+FVM by Velocimeter has three tokens available to regulate the system. At launch FVM & veFVM will be in use, ~~while oFVM may be turned on via governance to further regulate the system.~~ oFVM emissions have been enabled and FVM is no longer being emitted.
+
+
+- `oFVM` &mdash; Reward token for LPs. Can be redeemed any time @ a 25% discount on market price of FVM via redemption.
+- `FVM` &mdash; ERC-20 liquid token.
+- `veFVM` &mdash; ERC-721 governance token in the form of an NFT (non-fungible token). Votes to direct emissions, earns fees, bribes & oFVM redemption funds + Velocimeter Pro redemption fees.
+
+`oFVM` is used for rewarding liquidity providers through emissions. Its option mechanism provides sustainable funding for the protocol and support for the FVM market. An in-depth explanation of all redemption options is available [here](/oFVMmech)
+
+`veFVM` is used for governance. Any `FVM` holder can vote-escrow their tokens and
+receive `veFVM` (also known as a veNFT) in exchange. Additional tokens can be
+added to the `veFVM` NFT at any time.
+
+The lock period (also known as vote-escrowed period, hence the _ve_ prefix) can be up
+to 1 years, following the linear relationship shown below:
+
+- 100 `FVM` locked for 1 year will become 100 `veFVM`
+- 100 `FVM` locked for 3 months will become 25 `veFVM`
+
+The longer the vesting time, the higher the voting power (voting weight) and
+rewards the `veFVM` holder receives.
+
+## ve(3,3) Mechanics
+
+Velocimeter mechanics reflect a combination of two DeFi concepts:
+
+- Vote-Escrow &mdash; first introduced by Curve to strengthen incentives for long-term token holders
+- Staking/Rebasing/Bonding or (3,3) game theory &mdash; designed by Olympus DAO
+
+Combined, the _ve(3,3)_ mechanism rewards behaviors correlated with Velocimeter's success, such as
+liquidity provision and long-term token holding. Liquidity providers receive `FVM` emissions,
+and `veFVM` holders receive protocol fees, bribes, rebases, and governance power.
+
+
+
+## Gauge Voting
+
+`veFVM` holders decide which liquidity pools receive emissions in a given epoch by
+voting on their preferred liquidity pool _gauges_. `FVM` emissions will be distributed
+proportionally to the total votes a liquidity pool receives.
+
+In return, voters receive 100% of the trading fees and bribes collected through the
+liquidity pool they vote for.
+
+More information on voting can be found the [Voting Section](/voting) section of this document.
+
+## Emission Schedule
+
+  <Chart
+    chartType="LineChart"
+    data={[
+      ["Week", "LP Emissions", "veRebase (@50% locking rate)", "Total Supply"],
+      ["1", 15, 0, 300],
+      ["50", 9.1, 2, 750],
+      ["100", 5.5, 1.5, 1125],
+      ["150", 3.3, 1, 1275],
+      ["200", 2, 0.5, 1350]
+    ]}
+    options={{
+      title: "FVM Emissions (K)",
+      curveType: 'function',
+      aggregationTarget: 'series',
+      selectionMode: 'multiple',
+      legend: { position: "top", textStyle: {color: 'white'}},
+      series: {
+        0: { targetAxisIndex: 0 },
+        1: { targetAxisIndex: 0 },
+        2: { targetAxisIndex: 1 },
+      },
+      vAxes: {
+        1: { title: "Total Supply", titleTextStyle: { color: 'white' }},
+        0: { title: "Epoch Distribution", titleTextStyle: { color: 'white' }}
+      },
+      hAxis: {
+        title: "Week", titleTextStyle: { color: 'white' },
+      },
+      backgroundColor: '#111111',
+      lineWidth: 3,
+      colors: ['#79F8DB', '#2180DF', '#EA1000', '#59BFD8', '#0281FF'],
+      legend: {textStyle: {color: 'white'}},
+      titleTextStyle: { color: 'white' },
+    }}
+    width={"100%"}
+    height={"600px"}
+  />
+
+## Whitelisting
+
+While Velocimeter supports permissionless liquidity pools, gauge creation can
+only include _whitelisted_ tokens. Part of the partner onboarding program will include whitelisting of their tokens where needed.
+
+Partners can request additional tokens to be _whitelisted_.
+More information on whitelisting and gauges can be found in the [Gauges Section](/gauges).
+
+## Council of Velocimetry
+
+Requirements for _whitelisting_ are critical to ensuring that the protocol cannot
+be exploited by actors attempting to game emissions.
+
+To support the health of the protocol and ecosystem, the Council of Velocimetry (similar to the Curve.Finance _Emergency DAO_)
+will have the right to disable hostile gauges.
+
+An example of a hostile gauge would be one that has two tokens that cannot be obtained public via any route either inside Velocimeter or in other protocols.
+
+The Council of Velocimetry will initially consist of members from the Velocimeter team but community members will be recruited to bolster this role.
+
+

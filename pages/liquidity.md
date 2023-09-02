@@ -1,16 +1,8 @@
-import Bleed from 'nextra-theme-docs/bleed';
-
 # Liquidity Pools
 
-<Bleed>
 <div align="center">
   ![Velocimeter Launch](/dome5.jpg)
-  </div>
-</Bleed>
-
-&nbsp;
-
-
+</div>
 
 The core functionality of Velocimeter is to allow users to trade
 digital assets in a secure way, with very low fees and low slippage.
@@ -22,8 +14,9 @@ price paid) of desired tokens returned from a trade.
 
 To provide access to the best rates on the market, we identified two types of
 assets:
- * correlated - for example _stable coins_ (`$USDC`, `$DAI`, `NOTE`.)
- * uncorrelated - for example `$ETH`, `$CANTO` and `$FLOW`
+
+- correlated - for example _stable coins_ (`$USDC`, `$DAI`, `NOTE`.)
+- uncorrelated - for example `$ETH`, `$CANTO` and `$FLOW`
 
 Velocimeter offers two different liquidity pool types based on token pair needs, _Stable
 Pools_ and _Variable Pools_.
@@ -51,7 +44,6 @@ low slippage even on large traded volumes.
 
 > x³y + y³x ≥ k
 
-
 ## Variable Pools
 
 Variable pools are designed for assets with high price volatility.
@@ -63,14 +55,11 @@ These pools use a generic AMM formula.
 
 The mathematical formulas are used to keep the total pool liquidity the same at all times.
 
-Below, you can find a visual comparison between the stable (red) and volatile (green) 
+Below, you can find a visual comparison between the stable (red) and volatile (green)
 AMM pricing equations, where:
- * `x` is the amount of first asset in the pool
- * `y` is the amount of second asset in the same pool
- * `k` is a fixed constant
 
-<Bleed>
-  <iframe src="https://www.desmos.com/calculator/yiwx8ev1oh?embed" width="100%" height="700"></iframe>
-</Bleed>
+- `x` is the amount of first asset in the pool
+- `y` is the amount of second asset in the same pool
+- `k` is a fixed constant
 
-
+<iframe src="https://www.desmos.com/calculator/yiwx8ev1oh?embed" width="100%" height="700"></iframe>

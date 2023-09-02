@@ -1,0 +1,226 @@
+[
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png",
+    "name": "Wrapped ETH",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0xBa5E6fa2f33f3955f0cef50c63dCC84861eAb663",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1689602746092072960/taObBMAW_400x400.png",
+    "name": "BASED Markets",
+    "symbol": "BASED"
+  },
+  {
+    "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13178/small/unidx.png?1634888975",
+    "name": "Unidex",
+    "symbol": "UNIDX"
+  },
+  {
+    "address": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png?1624979612",
+    "name": "Magic Internet Money",
+    "symbol": "MIM"
+  },
+  {
+    "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://base.velocimeter.xyz/tokens/bvm.png",
+    "name": "Velocimeter",
+    "symbol": "BVM"
+  },
+  {
+    "address": "0x762eb51D2e779EeEc9B239FFB0B2eC8262848f3E",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://base.velocimeter.xyz/tokens/oBvm.png",
+    "name": "Option BVM",
+    "symbol": "oBVM"
+  },
+  {
+    "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg",
+    "name": "Bald",
+    "symbol": "BALD"
+  },
+  {
+    "address": "0x356bdb09c6d095464a3b009c64920a8bda629060",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://base.velocimeter.xyz/images/partners/smooth.png",
+    "name": "Smooth",
+    "symbol": "SMOOTH"
+  },
+  {
+    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "chainId": 8453,
+    "decimals": 6,
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+  },
+  {
+    "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "chainId": 8453,
+    "decimals": 6,
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+  },
+  {
+    "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN"
+  },
+  {
+    "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://base.velocimeter.xyz/images/partners/ogre.png",
+    "name": "SHREKT",
+    "symbol": "OGRE"
+  },
+  {
+    "address": "0xF544251D25f3d243A36B07e7E7962a678f952691",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
+    "name": "Tarot",
+    "symbol": "TAROT"
+  },
+  {
+    "address": "0xa5325a8ebbbdb12caf6b76218a7375a71f9f3b41",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28965/large/mpx_logo_256.png",
+    "name": "Morphex",
+    "symbol": "MPX"
+  },
+  {
+    "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+"
+  },
+  {
+    "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29634/large/DAI_.png",
+    "name": "Overnight.fi DAI+",
+    "symbol": "DAI+"
+  },
+  {
+    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "chainId": 8453,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USD Base coin",
+    "symbol": "USDbC"
+  },
+  {
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://static.optimism.io/data/cbETH/logo.svg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23896.png",
+    "name": "YieldFarming Index",
+    "symbol": "YFX"
+  },
+  {
+    "name": "Basin Protocol",
+    "symbol": "BASIN",
+    "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://base.velocimeter.xyz/images/partners/basin.jpeg"
+  },
+  {
+    "name": "Fantom Bomb",
+    "symbol": "fBOMB",
+    "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png"
+  },
+  {
+    "name": "Option to buy fBomb",
+    "symbol": "ofBOMB",
+    "address": "0x2495e19850A0aa1a96B83E598A5Fa3A4173F745D",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png"
+  },
+  {
+    "name": "Base TiUSD",
+    "symbol": "bTiUSD",
+    "address": "0x82fdaf19c7560be8f29d4bb3a1f7e1620db27238",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30697/large/TIUDS.png"
+  },
+  {
+    "name": "Base TiTi",
+    "symbol": "bTiTi",
+    "address": "0x57bec9e5b5f2e3c4c925949f516527e8fbc83cf2",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30561/large/TiTi.png"
+  },
+  {
+    "name": "Magnate Finance",
+    "symbol": "MAG",
+    "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31278/large/192.png"
+  },
+  {
+    "address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1673751872950108160/W8-EMVVE_400x400.jpg",
+    "name": "OATH",
+    "symbol": "OATH"
+  },
+  {
+    "address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
+    "chainId": 8453,
+    "decimals": 18,
+    "logoURI": "https://base.velocimeter.xyz/images/partners/stERN.png",
+    "name": "Staked ERN",
+    "symbol": "stERN"
+  }
+]

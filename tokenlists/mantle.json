@@ -1,0 +1,83 @@
+[
+  {
+    "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30980/large/token-logo.png",
+    "name": "Wrapped MNT",
+    "symbol": "WMNT"
+  },
+  {
+    "address": "0x636D4073738C071326Aa70c9e5DB7C334bEb87bE",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x636d4073738c071326aa70c9e5db7c334beb87be.png",
+    "name": "Lido wrapped staked ETH",
+    "symbol": "wstETH"
+  },
+  {
+    "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729.png",
+    "name": "Pendle",
+    "symbol": "Pendle"
+  },
+
+  {
+    "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32.png",
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD"
+  },
+  {
+    "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png",
+    "name": "Wrapped ETH",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+    "chainId": 5000,
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0x861A6Fc736Cbb12ad57477B535B829239c8347d7",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://mantle.velocimeter.xyz/tokens/mvm.png",
+    "name": "Mantle Velocimeter",
+    "symbol": "MVM"
+  },
+  {
+    "address": "0x3b19B8EC75BBf85848d133F1a47710EeEd57Bd90",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://mantle.velocimeter.xyz/tokens/oMvm.png",
+    "name": "Option MVM",
+    "symbol": "oMVM"
+  },
+  {
+    "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+    "chainId": 5000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "name": "USDC Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+    "chainId": 5000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  }
+]
