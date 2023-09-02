@@ -10,12 +10,14 @@ import Bleed from 'nextra-theme-docs/bleed';
 </Bleed>
 
 
-Velocimeter, is a Decentalized Exchange on [Canto](https://canto.io/) that can incentivize liquidity for project tokens. 
+Velocimeter, is a Decentalized Exchange on [Fantom](https://www.fvm.exchange/), [Base](https://base.velocimeter.xyz/), [Canto](https://canto.io/) and [Pulse](https://pulse.velocimeter.xyz/) that can incentivize liquidity for project tokens. 
+
+Each instance of velocimeter is not fungible with the others. For example, on Base, the token in `$BVM`, and on Fantom is `$FVM`. They are subject to different values and uses.
 
 Velocimeter dex will allow users to do the following:
 * swap tokens
 * provide liquidity
-* farm $FLOW
+* farm the Token of that instance
 * receive voter bribes
 
 
@@ -31,8 +33,6 @@ Velocimeter is a project built based on the original designs of [Andre Cronje's 
 
 
 ## Resources
-
-* Website: https://www.velocimeter.xyz/home
 * Twitter: https://twitter.com/VelocimeterDEX
 * Discord: https://discord.gg/TK8jnUpZME
 * Chainlist: https://chainlist.org 
