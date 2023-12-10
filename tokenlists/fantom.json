@@ -25,7 +25,7 @@
   },
   {
     "name": "F**K Multichain",
-    "symbol": "FMULTI",
+    "symbol": "oldFMULTI",
     "address": "0x6CEbb8cD66Fca7E6aca65841Ae3A04B7884F4de8",
     "chainId": 250,
     "decimals": 18,
