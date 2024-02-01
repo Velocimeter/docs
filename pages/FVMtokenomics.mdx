@@ -10,15 +10,13 @@ import { Chart } from "react-google-charts";
 
 ## Tokenomics Overview
 
-To get a full picture of initial system state and token disribution there are three categories which we will zero in on.
+To get a full picture of initial system state and token distribution there are three categories which we will zero in on.
 
 1. Initial veFVM including voteable & non voteable (see mint tank for future partners & partner rebate details below).
 2. Initial liquidity: ~4% of total initial FVM is used as liquidity, with wFTM provided by early partners & held in a 4/6 multisig as liquidity on day one.
 2. Week one emissions
 
 The sum of these 3 make up total supply at any given time. We have aimed to balance these three categories at launch based on our experience launching on Canto & Pulsechain, our analyisis of other protocol launches, and advice from our network.  
-
-
 
 ## veFVM Initial Distribution Chart & distiction between voteable & non voteable initial veFVM
 
@@ -30,10 +28,7 @@ Categories are marked as non votable if they are in the mint tank due to the fac
   <Chart
     chartType="PieChart"
     data={[
-      [ "Receivers", "Amount" ],
-      
-     
-      
+      [ "Receivers", "Amount" ],      
       [ "Non Voteable Future protocols / Advisors / Contributers / Growth", 1800000],
       [ "Non voteable Partner Protocol Rebate Reserve", 1290000],
       [ "Protocol owned voting power", 1080000],
