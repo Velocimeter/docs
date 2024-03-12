@@ -1,0 +1,74 @@
+[
+  {
+    "address": "0x07a274154d79c23d5cd7ba78a243645e419cdd46",
+    "chainId": 245022926,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
+    "name": "Wrapped BTC (Wormhole)",
+    "symbol": "wWBTC"
+  },
+  {
+    "address": "0x90306d9492eb658e47a64ef834e76c81a0242598",
+    "chainId": 245022926,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+    "name": "Wrapped Ethereum (Sollet)",
+    "symbol": "wETH"
+  },
+  {
+    "address": "0xab94bd2221cac77febdb0b979eb8839ed7ddb981",
+    "chainId": 245022926,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
+    "name": "Wrapped Aave",
+    "symbol": "AAVE"
+  },
+  {
+    "address": "0x4c694ac087b2d1dfcb7e868af6c0561f070b7f6c",
+    "chainId": 245022926,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat/logo.png",
+    "name": "Balancer (Wormhole)",
+    "symbol": "wBAL"
+  },
+  {
+    "address": "0xc659b2633ed725e5346396a609d8f31794d6ac50",
+    "chainId": 245022926,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x74bca1362b31d52198e102d9e5f5b9af360d6750",
+    "chainId": 245022926,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
+    "name": "Wrapped SUSHI (Sollet)",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0xaa24a5a5e273efaa64a960b28de6e27b87ffdffc",
+    "chainId": 245022926,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "name": "USDT",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x4954cd6230c19e63b7c7b131760ef0c0c424321c",
+    "chainId": 245022926,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+    "name": "Dai Stablecoin (Wormhole)",
+    "symbol": "wDAI"
+  },
+  {
+    "address": "0xcd7cd0fe96d89aa98f1cb8f17cd31dcb6ea90d0d",
+    "chainId": 245022926,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ApmXkxXCASdxRf3Ln6Ni7oAZ7E6CX1CcJAD8A5qBdhSm/logo.png",
+    "name": "Curve DAO Token (Wormhole)",
+    "symbol": "wCRV"
+  }
+]
