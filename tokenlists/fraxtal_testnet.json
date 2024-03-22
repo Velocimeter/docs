@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Wrapped frxETH",
+    "symbol": "wfrxETH",
+    "address": "0xFC00000000000000000000000000000000000006",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/23225.png"
+  },
+  {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "address": "0xFC00000000000000000000000000000000000002",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/6953.png"
+  },
+  {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "address": "0xFC00000000000000000000000000000000000001",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/6952.png"
+  },
+  {
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "address": "0xFC00000000000000000000000000000000000003",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/19425.png"
+  },
+  {
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "address": "0xFC00000000000000000000000000000000000004",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/19424.png"
+  },
+  {
+    "name": "S",
+    "symbol": "S",
+    "address": "0x3547E9D95c0a940B5713235e8dc864659EFEAf37",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://base.velocimeter.xyz/tokens/bvm.png"
+  },
+  {
+    "name": "Option to buy S",
+    "symbol": "oS",
+    "address": "0xd7BF2C9EAeE6380664975Ba2a6A16b6ea09e6dF1",
+    "decimals": 18,
+    "chainId": 2522,
+    "logoURI": "https://base.velocimeter.xyz/tokens/oBvm.png"
+  }
+]
