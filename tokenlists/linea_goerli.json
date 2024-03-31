@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wrapped ETH",
+    "symbol": "wETH",
+    "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+    "decimals": 18,
+    "chainId": 59140,
+    "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png"
+  },
+  {
+    "name": "LineaVM",
+    "symbol": "LVM",
+    "address": "0xc9f2FE1bA5b6b1595C010219A7142a6cA9D07679",
+    "decimals": 18,
+    "chainId": 59140,
+    "logoURI": "https://base.velocimeter.xyz/tokens/bvm.png"
+  },
+  {
+    "name": "Option to buy LVM",
+    "symbol": "oLVM",
+    "address": "0xF7bF46E04bbcb35465813444C7928a57fc37FB22",
+    "decimals": 18,
+    "chainId": 59140,
+    "logoURI": "https://base.velocimeter.xyz/tokens/oBvm.png"
+  }
+]
