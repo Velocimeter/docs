@@ -1,226 +1,732 @@
 [
   {
-    "address": "0x4200000000000000000000000000000000000006",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png",
     "name": "Wrapped ETH",
-    "symbol": "WETH"
+    "symbol": "WETH",
+    "address": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/WETH.png"
   },
   {
-    "address": "0xBa5E6fa2f33f3955f0cef50c63dCC84861eAb663",
-    "chainId": 8453,
+    "name": "SIS keyholders fanclub governance token",
+    "symbol": "gSIS",
+    "address": "0xac8da2e2a1a114aafe50c774c588dcd93a028fc8",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1689602746092072960/taObBMAW_400x400.png",
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/friends/gsis.png"
+  },
+  {
+    "name": "gLEVI",
+    "symbol": "gLEVI",
+    "address": "0x5852ec7e6324d4c1c07c031bc74db548f1336649",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/gLEVI.jpg"
+  },
+  {
+    "name": "ogLEVI",
+    "symbol": "ogLEVI",
+    "address": "0x717801e90048d0543d6cee248d7daca5d84eae48",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/ogLEVI.jpg"
+  },
+  {
+    "name": "Echelon Prime",
+    "symbol": "PRIME",
+    "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/PRIME.png"
+  },
+  {
+    "name": "Option to buy gSIS",
+    "symbol": "ogSIS",
+    "address": "0x41d1d21414c21d6c10950dc6f6a10a7671383dc4",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/friends/ogsis.png"
+  },
+  {
+    "name": "Option to buy gICE",
+    "symbol": "ogICE",
+    "address": "0x50ffc6cfef70ef8d4de9f0d6486387811be33aa1",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/friends/ogice.png"
+  },
+  {
     "name": "BASED Markets",
-    "symbol": "BASED"
+    "symbol": "BASED",
+    "address": "0xba5e6fa2f33f3955f0cef50c63dcc84861eab663",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
   },
   {
-    "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13178/small/unidx.png?1634888975",
     "name": "Unidex",
-    "symbol": "UNIDX"
+    "symbol": "UNIDX",
+    "address": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/UNIDX.png"
   },
   {
-    "address": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png?1624979612",
     "name": "Magic Internet Money",
-    "symbol": "MIM"
+    "symbol": "MIM",
+    "address": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/MIM.png"
   },
   {
-    "address": "0xd386a121991E51Eab5e3433Bf5B1cF4C8884b47a",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://base.velocimeter.xyz/tokens/bvm.png",
     "name": "Velocimeter",
-    "symbol": "BVM"
+    "symbol": "BVM",
+    "address": "0xd386a121991e51eab5e3433bf5b1cf4c8884b47a",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "VelocimeterDEX",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/BVM.png"
   },
   {
-    "address": "0x762eb51D2e779EeEc9B239FFB0B2eC8262848f3E",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://base.velocimeter.xyz/tokens/oBvm.png",
     "name": "Option BVM",
-    "symbol": "oBVM"
+    "symbol": "oBVM",
+    "address": "0x762eb51d2e779eeec9b239ffb0b2ec8262848f3e",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/oBVM.png"
   },
   {
-    "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg",
     "name": "Bald",
-    "symbol": "BALD"
-  },
-  {
-    "address": "0x356bdb09c6d095464a3b009c64920a8bda629060",
-    "chainId": 8453,
+    "symbol": "BALD",
+    "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
     "decimals": 18,
-    "logoURI": "https://base.velocimeter.xyz/images/partners/smooth.png",
-    "name": "Smooth",
-    "symbol": "SMOOTH"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/BALD.jpg"
   },
   {
-    "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "name": "Smooth",
+    "symbol": "SMOOTH",
+    "address": "0x356bdb09c6d095464a3b009c64920a8bda629060",
+    "decimals": 18,
     "chainId": 8453,
-    "decimals": 6,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/SMOOTH.jpg"
+  },
+  {
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "decimals": 6,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/axlUSDC.jpg"
   },
   {
-    "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
-    "chainId": 8453,
-    "decimals": 6,
     "name": "Axelar Wrapped USDT",
     "symbol": "axlUSDT",
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+    "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+    "decimals": 6,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/axlUSDT.jpg"
   },
   {
-    "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png",
     "name": "Ethos Reserve Note",
-    "symbol": "ERN"
+    "symbol": "ERN",
+    "address": "0xa334884bf6b0a066d553d19e507315e839409e62",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/ERN.png"
   },
   {
-    "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://base.velocimeter.xyz/images/partners/ogre.png",
     "name": "SHREKT",
-    "symbol": "OGRE"
+    "symbol": "OGRE",
+    "address": "0xab8a1c03b8e4e1d21c8ddd6edf9e07f26e843492",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/OGRE.png"
   },
   {
-    "address": "0xF544251D25f3d243A36B07e7E7962a678f952691",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
-    "name": "Tarot",
-    "symbol": "TAROT"
-  },
-  {
-    "address": "0xa5325a8ebbbdb12caf6b76218a7375a71f9f3b41",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28965/large/mpx_logo_256.png",
     "name": "Morphex",
-    "symbol": "MPX"
-  },
-  {
-    "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
-    "chainId": 8453,
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/25757/large/USD__logo.png",
-    "name": "Overnight.fi USD+",
-    "symbol": "USD+"
-  },
-  {
-    "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
-    "chainId": 8453,
+    "symbol": "MPX",
+    "address": "0xa5325a8ebbbdb12caf6b76218a7375a71f9f3b41",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29634/large/DAI_.png",
-    "name": "Overnight.fi DAI+",
-    "symbol": "DAI+"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/MPX.png"
   },
   {
-    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-    "chainId": 8453,
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "chainId": 8453,
+    "twitter": "overnight_fi",
+    "homepage": "https://overnight.fi/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/USD+.png"
+  },
+  {
+    "name": "Overnight.fi DAI+",
+    "symbol": "DAI+",
+    "address": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "overnight_fi",
+    "homepage": "https://overnight.fi/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/DAI+.png"
+  },
+  {
     "name": "USD Base coin",
-    "symbol": "USDbC"
+    "symbol": "USDbC",
+    "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "decimals": 6,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/USDbC.jpg"
   },
   {
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
-    "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
-    "chainId": 8453,
+    "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
     "decimals": 18,
-    "logoURI": "https://static.optimism.io/data/cbETH/logo.svg"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/cbETH.svg"
   },
   {
     "name": "Dai Stablecoin",
     "symbol": "DAI",
-    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-    "chainId": 8453,
+    "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/DAI.png"
   },
   {
-    "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23896.png",
     "name": "YieldFarming Index",
-    "symbol": "YFX"
+    "symbol": "YFX",
+    "address": "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/YFX.png"
   },
   {
     "name": "Basin Protocol",
     "symbol": "BASIN",
-    "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
-    "chainId": 8453,
+    "address": "0x4788de271f50ea6f5d5d2a5072b8d3c61d650326",
     "decimals": 18,
-    "logoURI": "https://base.velocimeter.xyz/images/partners/basin.jpeg"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/BASIN.jpg"
   },
   {
     "name": "Fantom Bomb",
     "symbol": "fBOMB",
-    "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-    "chainId": 8453,
+    "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png"
+    "chainId": 8453,
+    "twitter": "fBombOpera",
+    "homepage": "https://www.fbomb.finance/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/fBOMB.png"
   },
   {
     "name": "Option to buy fBomb",
     "symbol": "ofBOMB",
-    "address": "0x2495e19850A0aa1a96B83E598A5Fa3A4173F745D",
-    "chainId": 8453,
+    "address": "0x2495e19850a0aa1a96b83e598a5fa3a4173f745d",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/ofBOMB.png"
   },
   {
     "name": "Base TiUSD",
     "symbol": "bTiUSD",
     "address": "0x82fdaf19c7560be8f29d4bb3a1f7e1620db27238",
-    "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30697/large/TIUDS.png"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/bTiUSD.png"
   },
   {
     "name": "Base TiTi",
     "symbol": "bTiTi",
     "address": "0x57bec9e5b5f2e3c4c925949f516527e8fbc83cf2",
-    "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/30561/large/TiTi.png"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/bTiTi.png"
   },
   {
     "name": "Magnate Finance",
     "symbol": "MAG",
-    "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
-    "chainId": 8453,
+    "address": "0x2dc1cda9186a4993bd36de60d08787c0c382bead",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/31278/large/192.png"
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/MAG.png"
   },
   {
-    "address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1673751872950108160/W8-EMVVE_400x400.jpg",
     "name": "OATH",
-    "symbol": "OATH"
+    "symbol": "OATH",
+    "address": "0x00e1724885473b63bce08a9f0a52f35b0979e35a",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/OATH.jpg"
   },
   {
-    "address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
-    "chainId": 8453,
-    "decimals": 18,
-    "logoURI": "https://base.velocimeter.xyz/images/partners/stERN.png",
     "name": "Staked ERN",
-    "symbol": "stERN"
+    "symbol": "stERN",
+    "address": "0xf7a0dd3317535ec4f4d29adf9d620b3d8d5d5069",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/stERN.png"
+  },
+  {
+    "name": "DIP Token",
+    "symbol": "DIP",
+    "address": "0xadba4694f5deaf3251d06dec38c86946f8952efb",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/DIP.png"
+  },
+  {
+    "name": "ICE keyholders fanclub governance token",
+    "symbol": "gICE",
+    "address": "0x2ee8e826a63d54978bff845dd70b9f408921db3c",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/friends/gice.png"
+  },
+  {
+    "name": "BASEballPEPE",
+    "symbol": "PepeBall",
+    "address": "0x4ce1b860f6170774beb96ff17cf525d1fcc1de3e",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/partners/pepeball.png"
+  },
+  {
+    "name": "TVestige",
+    "symbol": "TV",
+    "address": "0x02e47d464c3bb564964fce162e6c8f38ea744f5a",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/partners/tv.png"
+  },
+  {
+    "name": "BLAZE",
+    "symbol": "BLAZE",
+    "address": "0x37defbc399e5737d53dfb5533d9954572f5b19bf",
+    "decimals": 9,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/partners/blaze.png"
+  },
+  {
+    "name": "UncleSam",
+    "symbol": "SAM",
+    "address": "0x80a3d4999b2836a5ac90b4742da133f5f5f6c27d",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/partners/sam.png"
+  },
+  {
+    "name": "CEAZOR keyholders fanclub governance token",
+    "symbol": "gCEAZOR",
+    "address": "0x1e6f361eb7d166d9e600617cedece69ec645b610",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/friends/gceazor.png"
+  },
+  {
+    "name": "Option to buy gCEAZOR",
+    "symbol": "ogCEAZOR",
+    "address": "0xce3a50833900efa2d1f95050502c854af6b8d330",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/friends/ogceazor.png"
+  },
+  {
+    "name": "DISE",
+    "symbol": "DISE",
+    "address": "0xdce2514f8949dd5b3871a44b6495a4c4b5b9459a",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/partners/dise.svg"
+  },
+  {
+    "name": "PARA",
+    "symbol": "PARA",
+    "address": "0x101d1ba6049c4e666b43b247160fc3c8d834bfa9",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/partners/para.svg"
+  },
+  {
+    "name": "MIMATIC",
+    "symbol": "MAI",
+    "address": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/MAI.png"
+  },
+  {
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "decimals": 6,
+    "chainId": 8453,
+    "twitter": "circle",
+    "homepage": "https://www.circle.com/en/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/USDC.svg"
+  },
+  {
+    "name": "BAI",
+    "symbol": "BAI",
+    "address": "0x2259ba575f7c66cf10d59a1fe2f7ba77c5685770",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "address": "0xf544251d25f3d243a36b07e7e7962a678f952691",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "TarotFinance",
+    "homepage": "https://www.tarot.to/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/TAROT.png"
+  },
+  {
+    "name": "SURV",
+    "symbol": "SURV",
+    "address": "0x2b6a85cd35d15691357eea61d88cb3f401a92fc3",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "Axelar WBTC",
+    "symbol": "axlWBTC",
+    "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
+    "decimals": 8,
+    "chainId": 8453,
+    "twitter": "axelarcore",
+    "homepage": "https://axelarscan.io/assets",
+    "logoURI": "https://www.velocimeter.xyz/images/base/axlWBTC.png"
+  },
+  {
+    "name": "Friend Tech Wealth",
+    "symbol": "FTW",
+    "address": "0x3347453ced85bd288d783d85cdec9b01ab90f9d8",
+    "decimals": 9,
+    "chainId": 8453,
+    "twitter": "friendtech33",
+    "homepage": "https://twitter.com/friendtech33",
+    "logoURI": "https://www.velocimeter.xyz/images/base/FTW.png"
+  },
+  {
+    "name": "Wrapped BMX Liquidity Token",
+    "symbol": "wBLT",
+    "address": "0x4e74d4db6c0726ccded4656d0bce448876bb4c7a",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/wBLT.png"
+  },
+  {
+    "name": "BMX",
+    "symbol": "BMX",
+    "address": "0x548f93779fbc992010c07467cbaf329dd5f059b7",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/BMX.png"
+  },
+  {
+    "name": "Option to buy BMX",
+    "symbol": "oBMX",
+    "address": "0x3ff7ab26f2dfd482c40bdadfc0e88d01bff79713",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/oBMX.png"
+  },
+  {
+    "name": "DEUS Finance",
+    "symbol": "DEUS",
+    "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/DEUS.png"
+  },
+  {
+    "name": "The Creator Fund",
+    "symbol": "TCF",
+    "address": "0xdc4c06bea5ac28ab95c803c55e59542a62023921",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "TheCreatorFunds",
+    "homepage": "https://twitter.com/TheCreatorFunds",
+    "logoURI": "https://www.velocimeter.xyz/images/base/TCF.png"
+  },
+  {
+    "name": "Wrapped Staked FTW",
+    "symbol": "wsFTW",
+    "address": "0xe428c32fe2dfde4e25e9bb37c690ce22229f21ac",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "friendtech33",
+    "homepage": "https://twitter.com/friendtech33",
+    "logoURI": "https://www.velocimeter.xyz/images/base/wsFTW.png"
+  },
+  {
+    "name": "Yearn Finance",
+    "symbol": "YFI",
+    "address": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/YFI.jpg"
+  },
+  {
+    "name": "Staked FTW",
+    "symbol": "sFTW",
+    "address": "0xbede0ae1a6043c056600eeed0d561de9771ef863",
+    "decimals": 9,
+    "chainId": 8453,
+    "twitter": "friendtech33",
+    "homepage": "https://twitter.com/friendtech33",
+    "logoURI": "https://www.velocimeter.xyz/images/base/sFTW.png"
+  },
+  {
+    "name": "Gary Gensler Inu",
+    "symbol": "GG",
+    "address": "0xa97792ea3ef60d115120ac7f5fc7bd4d8ad34715",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "Bullrun",
+    "symbol": "BULLRUN",
+    "address": "0x1a9132ee02d7e98e51b7389d2e7bb537184867aa",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "SEC",
+    "symbol": "SEC",
+    "address": "0x1594eaf808be86a3c107c81e7ae43f1050ca0467",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "oWIG",
+    "symbol": "oWIG",
+    "address": "0xbe1053ec4ac137c9a5b4462d53d5c2c0b89a2b79",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/oWIG.jpg"
+  },
+  {
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "LiquityProtocol",
+    "homepage": "https://www.liquity.org/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/LUSD.png"
+  },
+  {
+    "name": "bSHARE",
+    "symbol": "bSHARE",
+    "address": "0xd0a96c9b21565a7b73d006c02e56e09438b51c1b",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "BasedDotFarm",
+    "homepage": "https://based.farm/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/bSHARE.gif"
+  },
+  {
+    "name": "BASED Farms",
+    "symbol": "BASED",
+    "address": "0x9cbd543f1b1166b2df36b68eb6bb1dce24e6abdf",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "BasedDotFarm",
+    "homepage": "https://based.farm/",
+    "logoURI": "https://www.velocimeter.xyz/images/base/BASED.gif"
+  },
+  {
+    "name": "Layer Zero fMULTI",
+    "symbol": "lz-fMULTI",
+    "address": "0x7e51ad847cdf8729efc97cfa6e8afa4d658cb85b",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/lz-fMULTI.jpg"
+  },
+  {
+    "name": "axlOP",
+    "symbol": "axlOP",
+    "address": "0x994ac01750047b9d35431a7ae4ed312ee955e030",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/axlOP.png"
+  },
+  {
+    "name": "TYBG",
+    "symbol": "TYBG",
+    "address": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/TYBG.webp"
+  },
+  {
+    "name": "DEGEN",
+    "symbol": "DEGEN",
+    "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/DEGEN.webp"
+  },
+  {
+    "name": "Friend.tech",
+    "symbol": "FRIEND",
+    "address": "0x0bd4887f7d41b35cd75dff9ffee2856106f86670",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/FRIEND.webp"
+  },
+  {
+    "name": "NORMIE",
+    "symbol": "NORMIE",
+    "address": "0x7f12d13b34f5f4f0a9449c16bcd42f0da47af200",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/NORMIE.png"
+  },
+  {
+    "name": "BRIUN",
+    "symbol": "BRIUN",
+    "address": "0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987",
+    "decimals": 18,
+    "chainId": 8453,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/BRIUN.png"
   }
 ]
