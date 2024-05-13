@@ -1,515 +1,662 @@
 [
-    {
-      "address": "0x9F823D534954Fc119E31257b3dDBa0Db9E2Ff4ed",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://docs.scanto.io/V1.png",
-      "name": "Liquid Staked Canto",
-      "symbol": "sCANTO"
-    },
-    {
-      "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/03/wcanto.png",
-      "name": "Wrapped Canto",
-      "symbol": "WCANTO"
-    },
-    {
-      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
-      "chainId": 7700,
-      "decimals": 6,
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
-    },
-    {
-      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
-      "chainId": 7700,
-      "decimals": 6,
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-    },
-    {
-      "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.slingshot.finance/icons/canto_0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503",
-      "name": "Note",
-      "symbol": "NOTE"
-    },
-    {
-      "address": "0xB5b060055F0d1eF5174329913ef861bC3aDdF029",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
-      "name": "Velocimeter",
-      "symbol": "FLOW"
-    },
-    {
-      "address": "0xbAD86785eB08fe9d0948B7D9d24523000A177cD0",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
-      "name": "Velocimeter",
-      "symbol": "CVM"
-    },
-    {
-      "address": "0x5C2a258A169Fd683e784686E606E33f6D8c31b9a",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/Flow-circle-aqua-150x150.png",
-      "name": "Velocimeter",
-      "symbol": "oCVM"
-    },
-    {
-      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://assets.slingshot.finance/icons/canto_0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
-      "name": "Cosmos Hub",
-      "symbol": "ATOM"
-    },
-    {
-      "address": "0x533C0f08BE45eaaC821392B85E67Fb0c7DC2cab7",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://app.cantohm.money/static/media/cantologo.194a85b9.png",
-      "name": "CantOHM",
-      "symbol": "COHM"
-    },
-    {
-      "address": "0x5d6d848eaab022e2c919d9df9fc6a7a255280f82",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://app.cantohm.money/static/media/cantologo.194a85b9.png",
-      "name": "Staked CantOHM",
-      "symbol": "scOHM"
-    },
-    {
-      "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.png",
-      "name": "Sommelier",
-      "symbol": "SOMM"
-    },
-    {
-      "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png",
-      "name": "Graviton",
-      "symbol": "GRAV"
-    },
-    {
-      "address": "0x1D54EcB8583Ca25895c512A8308389fFD581F9c9",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
-      "name": "Injective",
-      "symbol": "INJ"
-    },
-    {
-      "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.svg",
-      "name": "Kava",
-      "symbol": "KAVA"
-    },
-    {
-      "address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
-      "name": "Osmosis",
-      "symbol": "OSMO"
-    },
-    {
-      "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg",
-      "name": "Akash",
-      "symbol": "AKASH"
-    },
-    {
-      "address": "0x5db67696C3c088DfBf588d3dd849f44266ff0ffa",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg",
-      "name": "Crescent",
-      "symbol": "CRE"
-    },
-    {
-      "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.svg",
-      "name": "Comdex",
-      "symbol": "CMDX"
-    },
-    {
-      "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://www.cantoinu.com/_next/static/media/icon.8e44c191.png",
-      "name": "Canto Inu",
-      "symbol": "cINU"
-    },
-    {
-      "address": "0x38D11B40D2173009aDB245b869e90525950aE345",
-      "chainId": 7700,
-      "decimals": 9,
-      "logoURI": "https://teal-working-newt-713.mypinata.cloud/ipfs/QmRX9dYrNkGv9379n4ksma3AM8w14f8ofe25yvqF8Th8dX/1.png",
-      "name": "CantoBonk",
-      "symbol": "CBONK"
-    },
-    {
-      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://ethereum.org/static/655aaefb744ae2f9f818095a436d38b5/448ee/eth-diamond-purple-purple.webp",
-      "name": "Ethereum",
-      "symbol": "ETH"
-    },
-    {
-      "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://docs.velocimeter.xyz/tokens/fBOMB.svg",
-      "name": "Fantom Bomb",
-      "symbol": "fBOMB"
-    },
-    {
-      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://beefy.com/cf57eaab09241a85ed3089f7c8c19167.png",
-      "name": "Beefy.Finance",
-      "symbol": "BIFI"
-    },
-    {
-      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-      "chainId": 7700,
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/29495/large/MultiBTC.png",
-      "name": "Multichain BTC",
-      "symbol": "multiBTC"
-    },
-    {
-      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
-      "name": "Tarot",
-      "symbol": "TAROT"
-    },
-    {
-    "address": "0xCAC45583c6990b6D0981F4707f00eB6a00214617",
-    "chainId": 7700,
+  {
+    "name": "Liquid Staked Canto",
+    "symbol": "sCANTO",
+    "address": "0x9f823d534954fc119e31257b3ddba0db9e2ff4ed",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png",
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/sCANTO.png"
+  },
+  {
+    "name": "Wrapped Canto",
+    "symbol": "WCANTO",
+    "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/WCANTO.png"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/USDT.jpg"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/USDC.jpg"
+  },
+  {
+    "name": "Note",
+    "symbol": "NOTE",
+    "address": "0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/NOTE.svg"
+  },
+  {
+    "name": "Velocimeter",
+    "symbol": "FLOW",
+    "address": "0xb5b060055f0d1ef5174329913ef861bc3addf029",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/FLOW.png"
+  },
+  {
+    "name": "Velocimeter",
+    "symbol": "CVM",
+    "address": "0xbad86785eb08fe9d0948b7d9d24523000a177cd0",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CVM.png"
+  },
+  {
+    "name": "Velocimeter",
+    "symbol": "oCVM",
+    "address": "0x5c2a258a169fd683e784686e606e33f6d8c31b9a",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/oCVM.png"
+  },
+  {
+    "name": "Cosmos Hub",
+    "symbol": "ATOM",
+    "address": "0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/ATOM.svg"
+  },
+  {
+    "name": "CantOHM",
+    "symbol": "COHM",
+    "address": "0x533c0f08be45eaac821392b85e67fb0c7dc2cab7",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/COHM.png"
+  },
+  {
+    "name": "Staked CantOHM",
+    "symbol": "scOHM",
+    "address": "0x5d6d848eaab022e2c919d9df9fc6a7a255280f82",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/scOHM.png"
+  },
+  {
+    "name": "Sommelier",
+    "symbol": "SOMM",
+    "address": "0xfa3c22c069b9556a4b2f7ece1ee3b467909f4864",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/SOMM.png"
+  },
+  {
+    "name": "Graviton",
+    "symbol": "GRAV",
+    "address": "0xc03345448969dd8c00e9e4a85d2d9722d093af8e",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/GRAV.png"
+  },
+  {
+    "name": "Injective",
+    "symbol": "INJ",
+    "address": "0x1d54ecb8583ca25895c512a8308389ffd581f9c9",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/INJ.svg"
+  },
+  {
+    "name": "Kava",
+    "symbol": "KAVA",
+    "address": "0xc5e00d3b04563950941f7137b5afa3a534f0d6d6",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/KAVA.svg"
+  },
+  {
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "address": "0x0ce35b0d42608ca54eb7bcc8044f7087c18e7717",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/OSMO.svg"
+  },
+  {
+    "name": "Akash",
+    "symbol": "AKASH",
+    "address": "0x5ad523d94efb56c400941eb6f34393b84c75ba39",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/AKASH.svg"
+  },
+  {
+    "name": "Crescent",
+    "symbol": "CRE",
+    "address": "0x5db67696c3c088dfbf588d3dd849f44266ff0ffa",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CRE.svg"
+  },
+  {
+    "name": "Comdex",
+    "symbol": "CMDX",
+    "address": "0x3452e23f9c4cc62c70b7adad699b264af3549c19",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CMDX.svg"
+  },
+  {
+    "name": "Canto Inu",
+    "symbol": "cINU",
+    "address": "0x7264610a66eca758a8ce95cf11ff5741e1fd0455",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/cINU.png"
+  },
+  {
+    "name": "CantoBonk",
+    "symbol": "CBONK",
+    "address": "0x38d11b40d2173009adb245b869e90525950ae345",
+    "decimals": 9,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "address": "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/base/WETH.png"
+  },
+  {
+    "name": "Fantom Bomb",
+    "symbol": "fBOMB",
+    "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/fBOMB.svg"
+  },
+  {
+    "name": "Beefy.Finance",
+    "symbol": "BIFI",
+    "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/BIFI.png"
+  },
+  {
+    "name": "Multichain BTC",
+    "symbol": "multiBTC",
+    "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+    "decimals": 8,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/multiBTC.png"
+  },
+  {
     "name": "Tarot",
-    "symbol": "TAROT"
-    },
-    {
-      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/acryptos/acryptos-assets/master/icon-circle-1500.png",
-      "name": "ACryptoS",
-      "symbol": "ACS"
-    },
-    {
-      "address": "0x08638a74A8134c747Dce29B57472cc2B57F35653",
-      "chainId": 7700,
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC"
-    },
-    {
-      "address": "0xFb7F77faaA3b69ef4C15d6305C79AD92B387C89F",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
-      "name": "Binance Coin",
-      "symbol": "BNB"
-    },
-    {
-      "address": "0x381Ea7A7EE6a1e2982e01E7b6837f775a1a4B07F",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
-      "name": "Binance USD",
-      "symbol": "BUSD"
-    },
-    {
-      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27606/large/IqwOmX-c_400x400.jpeg",
-      "name": "Impermax",
-      "symbol": "IBEX"
-    },
-    {
-      "address": "0xD32eB974468ed767338533842D2D4Cc90B9BAb46",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.png",
-      "name": "Quicksilver Staked STARS",
-      "symbol": "qSTARS"
-    },
-    {
-      "address": "0x9d6F2a9fDB32708e1AC07788cc29D6125ac73027",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.png",
-      "name": "Quicksilver Staked ATOM",
-      "symbol": "qATOM"
-    },
-    {
-      "address": "0xB5124FA2b2cF92B2D469b249433BA1c96BDF536D",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qregen.png",
-      "name": "Quicksilver Staked REGEN",
-      "symbol": "qREGEN"
-    },
-    {
-      "address": "0xF0965c8f0755CF080a61C91EDd6707F0532c8fE7",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png",
-      "name": "Quicksilver",
-      "symbol": "QCK"
-    },
-    {
-      "address": "0x205CF44075E77A3543abC690437F3b2819bc450a",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.svg",
-      "name": "Stride Staked EVMOS",
-      "symbol": "stEVMOS"
-    },
-    {
-      "address": "0x4A2a90D444DbB7163B5861b772f882BbA394Ca67",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/statom.svg",
-      "name": "Stride Staked ATOM",
-      "symbol": "stATOM"
-    },
-    {
-      "address": "0xe01C6D4987Fc8dCE22988DADa92d56dA701d0Fe0",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.svg",
-      "name": "Stride Staked JUNO",
-      "symbol": "stJUNO"
-    },
-    {
-      "address": "0x3515F25AB7637adcF1b69F4D384ed5936B83431F",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stosmo.svg",
-      "name": "Stride Staked OSMO",
-      "symbol": "stOSMO"
-    },
-    {
-      "address": "0x4AF57825b86Abf93D4F9D720bEF7c1C1b300A6F3",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.png",
-      "name": "Stride Staked STARS",
-      "symbol": "stSTARS"
-    },
-    {
-      "address": "0x13974cf36984216C90D1F4FC815C156092feA396",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.svg",
-      "name": "Stride",
-      "symbol": "STRD"
-    },
-    {
-      "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.svg",
-      "name": "Persistence Staked ATOM",
-      "symbol": "stkATOM"
-    },
-    {
-      "address": "0xc8B4d3e67238e38B20d38908646fF6F4F48De5EC",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg",
-      "name": "Persistence",
-      "symbol": "XPRT"
-    },
-    {
-      "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
-      "chainId": 7700,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.svg",
-      "name": "Sentinel",
-      "symbol": "DVPN"
-    },
-    {
-      "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
-      "name": "Evmos",
-      "symbol": "EVMOS"
-    },
-    {
-      "address": "0xc71aAf8e486e3F33841BB56Ca3FD2aC3fa8D29a8",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png",
-      "name": "Lido Staked ETH",
-      "symbol": "wstETH"
-    },
-    {
-      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2021/11/cropped-cropped-android-chrome-512x512-1.png",
-      "name": "CRE8R DAO",
-      "symbol": "CRE8R"
-    },
-    {
-      "address": "0xbDdCf6AB290E7Ad076CA103183730d1Bf0661112",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/openXswap/openXswap-misc/master/img/opxveFLOW.png",
-      "name": "Perpetually Bonded FLOW",
-      "symbol": "opxveFLOW"
-    },
-    {
-      "address": "0x53a5dD07127739e5038cE81eff24ec503A6CC479",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/04/IMG_20230411_173159_601.png",
-      "name": "ACryptoS Liquid Wrapped veFLOW",
-      "symbol": "acsFLOW"
-    },
-    {
-      "address": "0x0A1D89e13ED7cadBEcF3CF569Fd1E86f4AC2bb52",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptoffchillen/images-repo/main/CVC%20LOGO.png",
-      "name": "CantoVerse Coin",
-      "symbol": "CVC"
-    },
-    {
-      "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23896.png",
-      "name": "YieldFarming Index",
-      "symbol": "YFX"
-    },
-    {
-      "address": "0xF18904ad12DcEb070768169B443642D9fbBF3439",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cdn.discordapp.com/attachments/1099657337981128704/1100026154649403504/ICON_FINAL.png",
-      "name": "WelcomeToColin",
-      "symbol": "COLIN"
-    },
-    {
-      "address": "0x42F4a26B58bC1f4Fa9652D208a0223947AB742c7",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cdn.discordapp.com/attachments/1094489825404526592/1100874841034338424/underFLOW.png",
-      "name": "Flow Undertow",
-      "symbol": "underFLOW"
-    },
-    {
-      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29137/small/original-icon-transparent.png",
-      "name": "Amplifi",
-      "symbol": "AGG"
-    },
-    {
-      "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg",
-      "name": "Pepe",
-      "symbol": "PEPE"
-    },
-    {
-      "address": "0xda26D56e2Ef68605e9CB0C9e0e9e5a9867Acb199",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://usd.zone/static/media/USDpluslogoalt.5a06a125697060034e8b.webp",
-      "name": "Ultra Sound Dollar",
-      "symbol": "USD+"
-    },
-    {
-      "address": "0x445c3d1aeE75AbB9aa01304F89DD4D2EAB6fEEC1",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cdn.discordapp.com/attachments/1099877888632819753/1109194548992811178/USDplusPluslogo.png",
-      "name": "Ultra Sound Dollar v2",
-      "symbol": "USD++"
-    },
-    {
-      "address": "0xFf0BAF077e8035A3dA0dD2abeCECFbd98d8E63bE",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/05/Sheet_WIP.png",
-      "name": "sCANTO BLOTR",
-      "symbol": "BLOTR"
-    },
-    {
-      "address": "0x4ca88bA558148f5e719A57cEC19fdAd55094813B",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cdn.discordapp.com/attachments/1107657243480031324/1107657816749121657/image.png",
-      "name": "CantoPulse",
-      "symbol": "CPLS"
-    },
-    {
-      "address": "0xD4ce5e7d9CCfE26c379d8D3aFe787bBB140a9388",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://www.ponzu.lol/cantoe_icon.png",
-      "name": "Canto Earn",
-      "symbol": "CANTOE"
-    },
-    {
-      "address": "0x0E63A6385C954C1C049D597F7C43E541c2Fb217E",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://pink-tired-swordtail-476.mypinata.cloud/ipfs/QmeJiVEMbSiANUCi9XfisSzh1hc1QtmBfs6ujv1ked1bL8",
-      "name": "Canto Pizzapolis",
-      "symbol": "CIZZA"
-    },
-    {
-      "address": "0x9f9A1Aa08910867F38359F4287865c4A1162C202",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://cre8r.vip/wp-content/uploads/2023/05/Sheet_WIP.png",
-      "name": "Option to buy BLOTR",
-      "symbol": "oBLOTR"
-    },
-    {
-      "address": "0x37A95c04450785Fb59c35dFd58c9897e9D9A4232",
-      "chainId": 7700,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29137/small/original-icon-transparent.png",
-      "name": "Option to buy AGG",
-      "symbol": "oAGG"
-    }
-  ]
-  
+    "symbol": "TAROT",
+    "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/TAROT.png"
+  },
+  {
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "address": "0xcac45583c6990b6d0981f4707f00eb6a00214617",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/TAROT.png"
+  },
+  {
+    "name": "ACryptoS",
+    "symbol": "ACS",
+    "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "/tokens/unknown-logo.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x08638a74a8134c747dce29b57472cc2b57f35653",
+    "decimals": 8,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/WBTC.png"
+  },
+  {
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "address": "0xfb7f77faaa3b69ef4c15d6305c79ad92b387c89f",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/BNB.png"
+  },
+  {
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "address": "0x381ea7a7ee6a1e2982e01e7b6837f775a1a4b07f",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/BUSD.png"
+  },
+  {
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/IBEX.jpg"
+  },
+  {
+    "name": "Quicksilver Staked STARS",
+    "symbol": "qSTARS",
+    "address": "0xd32eb974468ed767338533842d2d4cc90b9bab46",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/qSTARS.png"
+  },
+  {
+    "name": "Quicksilver Staked ATOM",
+    "symbol": "qATOM",
+    "address": "0x9d6f2a9fdb32708e1ac07788cc29d6125ac73027",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/qATOM.png"
+  },
+  {
+    "name": "Quicksilver Staked REGEN",
+    "symbol": "qREGEN",
+    "address": "0xb5124fa2b2cf92b2d469b249433ba1c96bdf536d",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/qREGEN.png"
+  },
+  {
+    "name": "Quicksilver",
+    "symbol": "QCK",
+    "address": "0xf0965c8f0755cf080a61c91edd6707f0532c8fe7",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/QCK.png"
+  },
+  {
+    "name": "Stride Staked EVMOS",
+    "symbol": "stEVMOS",
+    "address": "0x205cf44075e77a3543abc690437f3b2819bc450a",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/stEVMOS.svg"
+  },
+  {
+    "name": "Stride Staked ATOM",
+    "symbol": "stATOM",
+    "address": "0x4a2a90d444dbb7163b5861b772f882bba394ca67",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/stATOM.svg"
+  },
+  {
+    "name": "Stride Staked JUNO",
+    "symbol": "stJUNO",
+    "address": "0xe01c6d4987fc8dce22988dada92d56da701d0fe0",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/stJUNO.svg"
+  },
+  {
+    "name": "Stride Staked OSMO",
+    "symbol": "stOSMO",
+    "address": "0x3515f25ab7637adcf1b69f4d384ed5936b83431f",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/stOSMO.svg"
+  },
+  {
+    "name": "Stride Staked STARS",
+    "symbol": "stSTARS",
+    "address": "0x4af57825b86abf93d4f9d720bef7c1c1b300a6f3",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/stSTARS.png"
+  },
+  {
+    "name": "Stride",
+    "symbol": "STRD",
+    "address": "0x13974cf36984216c90d1f4fc815c156092fea396",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/STRD.svg"
+  },
+  {
+    "name": "Persistence Staked ATOM",
+    "symbol": "stkATOM",
+    "address": "0x50de24b3f0b3136c50fa8a3b8ebc8bd80a269ce5",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/stkATOM.svg"
+  },
+  {
+    "name": "Persistence",
+    "symbol": "XPRT",
+    "address": "0xc8b4d3e67238e38b20d38908646ff6f4f48de5ec",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/XPRT.svg"
+  },
+  {
+    "name": "Sentinel",
+    "symbol": "DVPN",
+    "address": "0x15c3eb3b621d1bff62cba1c9536b7c1ae9149b57",
+    "decimals": 6,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/DVPN.svg"
+  },
+  {
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "address": "0xf5b24c0093b65408ace53df7ce86a02448d53b25",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/EVMOS.svg"
+  },
+  {
+    "name": "Lido Staked ETH",
+    "symbol": "wstETH",
+    "address": "0xc71aaf8e486e3f33841bb56ca3fd2ac3fa8d29a8",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/wstETH.png"
+  },
+  {
+    "name": "CRE8R DAO",
+    "symbol": "CRE8R",
+    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CRE8R.png"
+  },
+  {
+    "name": "Perpetually Bonded FLOW",
+    "symbol": "opxveFLOW",
+    "address": "0xbddcf6ab290e7ad076ca103183730d1bf0661112",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/opxveFLOW.png"
+  },
+  {
+    "name": "ACryptoS Liquid Wrapped veFLOW",
+    "symbol": "acsFLOW",
+    "address": "0x53a5dd07127739e5038ce81eff24ec503a6cc479",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/acsFLOW.png"
+  },
+  {
+    "name": "CantoVerse Coin",
+    "symbol": "CVC",
+    "address": "0x0a1d89e13ed7cadbecf3cf569fd1e86f4ac2bb52",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CVC.png"
+  },
+  {
+    "name": "YieldFarming Index",
+    "symbol": "YFX",
+    "address": "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/YFX.png"
+  },
+  {
+    "name": "WelcomeToColin",
+    "symbol": "COLIN",
+    "address": "0xf18904ad12dceb070768169b443642d9fbbf3439",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/COLIN.png"
+  },
+  {
+    "name": "Flow Undertow",
+    "symbol": "underFLOW",
+    "address": "0x42f4a26b58bc1f4fa9652d208a0223947ab742c7",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/underFLOW.png"
+  },
+  {
+    "name": "Amplifi",
+    "symbol": "AGG",
+    "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/AGG.png"
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/PEPE.jpg"
+  },
+  {
+    "name": "Ultra Sound Dollar",
+    "symbol": "USD+",
+    "address": "0xda26d56e2ef68605e9cb0c9e0e9e5a9867acb199",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/USD+.webp"
+  },
+  {
+    "name": "Ultra Sound Dollar v2",
+    "symbol": "USD++",
+    "address": "0x445c3d1aee75abb9aa01304f89dd4d2eab6feec1",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/USD++.png"
+  },
+  {
+    "name": "sCANTO BLOTR",
+    "symbol": "BLOTR",
+    "address": "0xff0baf077e8035a3da0dd2abececfbd98d8e63be",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/BLOTR.png"
+  },
+  {
+    "name": "CantoPulse",
+    "symbol": "CPLS",
+    "address": "0x4ca88ba558148f5e719a57cec19fdad55094813b",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CPLS.png"
+  },
+  {
+    "name": "Canto Earn",
+    "symbol": "CANTOE",
+    "address": "0xd4ce5e7d9ccfe26c379d8d3afe787bbb140a9388",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CANTOE.png"
+  },
+  {
+    "name": "Canto Pizzapolis",
+    "symbol": "CIZZA",
+    "address": "0x0e63a6385c954c1c049d597f7c43e541c2fb217e",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/CIZZA.jpg"
+  },
+  {
+    "name": "Option to buy BLOTR",
+    "symbol": "oBLOTR",
+    "address": "0x9f9a1aa08910867f38359f4287865c4a1162c202",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/oBLOTR.png"
+  },
+  {
+    "name": "Option to buy AGG",
+    "symbol": "oAGG",
+    "address": "0x37a95c04450785fb59c35dfd58c9897e9d9a4232",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/oAGG.png"
+  },
+  {
+    "name": "cNote",
+    "symbol": "cNOTE",
+    "address": "0xee602429ef7ece0a13e4ffe8dbc16e101049504c",
+    "decimals": 18,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/cNOTE.svg"
+  },
+  {
+    "name": "Ponzu",
+    "symbol": "PONZU",
+    "address": "0x3d020a43fc0487e6464dc9486844cadd95793ef0",
+    "decimals": 12,
+    "chainId": 7700,
+    "twitter": "",
+    "homepage": "https://www.ponzu.lol/",
+    "logoURI": "https://www.velocimeter.xyz/images/canto/PONZU.webp"
+  }
+]
