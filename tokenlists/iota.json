@@ -7,7 +7,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/iota/IOTA.webp"
+    "logoURI": "https://v4.velocimeter.xyz/images/iota/IOTA.webp"
   },
   {
     "name": "IotaVM",
@@ -17,7 +17,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/base/BVM.png"
+    "logoURI": "https://v4.velocimeter.xyz/images/base/BVM.png"
   },
   {
     "name": "Option to buy IVM",
@@ -27,7 +27,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/base/oBVM.png"
+    "logoURI": "https://v4.velocimeter.xyz/images/base/oBVM.png"
   },
   {
     "name": "USDC.e",
@@ -37,7 +37,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/base/USDC.svg"
+    "logoURI": "https://v4.velocimeter.xyz/images/base/USDC.svg"
   },
   {
     "name": "USDT",
@@ -47,7 +47,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/base/USDT.jpg"
+    "logoURI": "https://v4.velocimeter.xyz/images/base/USDT.jpg"
   },
   {
     "name": "WETH",
@@ -57,7 +57,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/base/WETH.png"
+    "logoURI": "https://v4.velocimeter.xyz/images/base/WETH.png"
   },
   {
     "name": "Deepr",
@@ -67,7 +67,7 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/iota/DEEPR.webp"
+    "logoURI": "https://v4.velocimeter.xyz/images/iota/DEEPR.webp"
   },
   {
     "name": "IOLend",
@@ -77,6 +77,6 @@
     "chainId": 8822,
     "twitter": "",
     "homepage": "",
-    "logoURI": "https://www.v4.velocimeter.xyz/images/iota/IOL.wepb"
+    "logoURI": "https://v4.velocimeter.xyz/images/iota/IOL.wepb"
   }
 ]
