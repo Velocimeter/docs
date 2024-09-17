@@ -12,7 +12,7 @@
   {
     "name": "IotaVM",
     "symbol": "IVM",
-    "address": "0x5f9fffa886051ac0b3a7aefaeb91b2649c793ea9",
+    "address": "0x892aD291737249abe79C657C4A5a57e11C174566",
     "decimals": 18,
     "chainId": 8822,
     "twitter": "",
@@ -22,7 +22,7 @@
   {
     "name": "Option to buy IVM",
     "symbol": "oIVM",
-    "address": "0x03a35881e7c4529e32ca8fdf19db281509a91191",
+    "address": "0xaf971eb8117c76949696aa30912b2f3bd7b93b82",
     "decimals": 18,
     "chainId": 8822,
     "twitter": "",
